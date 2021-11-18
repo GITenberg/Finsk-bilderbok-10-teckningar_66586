@@ -1,0 +1,47 @@
+_repo: Finsk-bilderbok-10-teckningar_66586
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Åkerblom, Rudolf
+    aliases:
+    - Åkerblom, Rudolf Waldemar
+    - Akerblom, Rudolf
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '53876'
+    url: http://www.gutenberg.org/2009/agents/53876
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Rudolf_Waldemar_%C3%85kerblom
+    - https://fi.wikipedia.org/wiki/Rudolf_%C3%85kerblom
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Zachris
+    - Topelius, Zakris
+    - Topelius, Sakarias
+    - Topelius, Zakarias
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Zacharias_Topelius
+    - https://en.wikipedia.org/wiki/Zachris_Topelius
+    - https://sv.wikipedia.org/wiki/Zacharias_Topelius
+description: ''
+gutenberg_issued: '2021-10-21'
+identifiers:
+  gutenberg: '66586'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, Swedish'
+- !lcc 'PZ'
+- GITenberg
+title: 'Finsk bilderbok
+
+  10 teckningar'
+url: http://www.gutenberg.org/ebooks/66586

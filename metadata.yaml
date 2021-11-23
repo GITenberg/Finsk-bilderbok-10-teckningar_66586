@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://sv.wikipedia.org/wiki/Rudolf_Waldemar_%C3%85kerblom
     - https://fi.wikipedia.org/wiki/Rudolf_%C3%85kerblom
+covers:
+- cover_type: archival
+  image_path: 66586-h/images/cover.jpg
 creator:
   author:
     agent_name: Topelius, Zacharias
@@ -30,6 +33,8 @@ creator:
     - https://en.wikipedia.org/wiki/Zachris_Topelius
     - https://sv.wikipedia.org/wiki/Zacharias_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66586#Finsk-bilderbok-10-teckningar
 gutenberg_issued: '2021-10-21'
 identifiers:
   gutenberg: '66586'
